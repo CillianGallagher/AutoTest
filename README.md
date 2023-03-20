@@ -1,3 +1,3 @@
 # AutoTest
 
-AutoTest is a GUI Regression Testing tool. 
+AutoTest is a GUI Regression Testing tool.
